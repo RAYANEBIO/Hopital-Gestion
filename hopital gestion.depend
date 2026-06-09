@@ -1,0 +1,219 @@
+# depslib dependency file v1.0
+1764259825 source:c:\users\lenovo\documents\nouveau dossier\ray first\cours de codage\hopital gestion\src\administrateur .cpp
+	"Administrateur .h"
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<random>
+
+1764014056 source:c:\users\lenovo\documents\nouveau dossier\ray first\cours de codage\hopital gestion\src\consultation.cpp
+	"Consultation.h"
+
+1763944681 source:c:\users\lenovo\documents\nouveau dossier\ray first\cours de codage\hopital gestion\src\dossier medicale.cpp
+
+1764778160 source:c:\users\lenovo\documents\nouveau dossier\ray first\cours de codage\hopital gestion\src\patient.cpp
+	"Patient.h"
+	"Ultimate_Database_Manager.h"
+	<iostream>
+	<string>
+
+1764778160 c:\users\lenovo\documents\nouveau dossier\ray first\cours de codage\hopital gestion\include\patient.h
+	<string>
+
+1764778964 source:c:\users\lenovo\documents\nouveau dossier\ray first\cours de codage\hopital gestion\src\infirmier.cpp
+	"infirmier.h"
+	<string>
+	<iostream>
+	"Medecin.h"
+	"User.h"
+	<cstdlib>
+	<ctime>
+	<windows.h>
+	<limits>
+
+1764591509 c:\users\lenovo\documents\nouveau dossier\ray first\cours de codage\hopital gestion\include\infirmier.h
+	"Ultimate_Database_Manager.h"
+	<professionnel_de_sante.h>
+
+1764271870 c:\users\lenovo\documents\nouveau dossier\ray first\cours de codage\hopital gestion\include\professionnel_de_sante.h
+	"User.h"
+	<string>
+
+1764634136 c:\users\lenovo\documents\nouveau dossier\ray first\cours de codage\hopital gestion\include\user.h
+	<string>
+	<sqlite3.h>
+
+1763944522 source:c:\users\lenovo\documents\nouveau dossier\ray first\cours de codage\hopital gestion\src\professionnel_de_sante.cpp
+	"professionnel_de_sante.h"
+
+1764590540 source:c:\users\lenovo\documents\nouveau dossier\ray first\cours de codage\hopital gestion\main.cpp
+	<iostream>
+	"User.h"
+	<sqlite3.h>
+	"Ultimate_Database_Manager.h"
+
+1764779361 source:c:\users\lenovo\documents\nouveau dossier\ray first\cours de codage\hopital gestion\src\medecin.cpp
+	"Medecin.h"
+	<iostream>
+	<string>
+	"Patient.h"
+	<limits>
+	<windows.h>
+	"Consultation.h"
+	"Ultimate_Database_Manager.h"
+
+1764594001 c:\users\lenovo\documents\nouveau dossier\ray first\cours de codage\hopital gestion\include\medecin.h
+	<iostream>
+	<string>
+	"Patient.h"
+	"Ultimate_Database_Manager.h"
+	"professionnel_de_sante.h"
+
+1764263404 c:\users\lenovo\documents\nouveau dossier\ray first\cours de codage\hopital gestion\include\administrateur .h
+	"Ultimate_Database_Manager.h"
+	<string>
+	"User.h"
+
+1764016837 source:c:\users\lenovo\documents\nouveau dossier\ray first\cours de codage\hopital gestion\src\dossier_medical.cpp
+	"Dossier_medical.h"
+
+1764235729 c:\users\lenovo\documents\nouveau dossier\ray first\cours de codage\hopital gestion\include\dossier_medical.h
+	<string>
+
+1764183541 c:\users\lenovo\documents\nouveau dossier\ray first\cours de codage\hopital gestion\include\datamanager.h
+	<sqlite3.h>
+	<string>
+
+1762345081 c:\users\lenovo\documents\nouveau dossier\ray first\cours de codage\hopital gestion\include\sqlite3.h
+	<stdarg.h>
+
+1764534132 c:\users\lenovo\documents\nouveau dossier\ray first\cours de codage\hopital gestion\include\consultation.h
+	<string>
+
+1762345083 source:c:\users\lenovo\documents\nouveau dossier\ray first\cours de codage\hopital gestion\src\sqlite3.c
+	<vxWorks.h>
+	<pthread.h>
+	"mingw.h"
+	"_mingw.h"
+	<stdarg.h>
+	"sqlite_cfg.h"
+	<stdint.h>
+	<inttypes.h>
+	<intrin.h>
+	<cmnintrin.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<assert.h>
+	<stddef.h>
+	<ctype.h>
+	<TargetConditionals.h>
+	<time.h>
+	<sys/sysctl.h>
+	<malloc/malloc.h>
+	<libkern/OSAtomic.h>
+	<malloc.h>
+	<pthread.h>
+	"windows.h"
+	<sys/cygwin.h>
+	<sys/stat.h>
+	<unistd.h>
+	<errno.h>
+	<process.h>
+	<math.h>
+	<sys/types.h>
+	<sys/stat.h>
+	<unistd.h>
+	<sys/time.h>
+	<sys/types.h>
+	<sys/stat.h>
+	<fcntl.h>
+	<sys/ioctl.h>
+	<unistd.h>
+	<sys/time.h>
+	<errno.h>
+	<sys/mman.h>
+	<sys/file.h>
+	<sys/param.h>
+	<semaphore.h>
+	<limits.h>
+	<sys/mount.h>
+	<utime.h>
+	<sys/dcmd_blk.h>
+	<sys/statvfs.h>
+	<dlfcn.h>
+	<Windows.h>
+	"tclsqlite.h"
+	"sqlite3rtree.h"
+	<ctype.h>
+	<unicode/utypes.h>
+	<unicode/uregex.h>
+	<unicode/ustring.h>
+	<unicode/ucol.h>
+	<unicode/ubrk.h>
+	<unicode/utf16.h>
+	<sys/uio.h>
+	<math.h>
+
+1764183542 source:c:\users\lenovo\documents\nouveau dossier\ray first\cours de codage\hopital gestion\src\datamanager.cpp
+	<iostream>
+
+1764768429 c:\users\lenovo\documents\nouveau dossier\ray first\cours de codage\hopital gestion\include\ultimate_database_manager.h
+	<sqlite3.h>
+	<string>
+	"Patient.h"
+
+1764196343 source:c:\users\lenovo\documents\nouveau dossier\ray first\cours de codage\hopital gestion\src\databasemanager.c
+	<sqlite3.h>
+	<stdio.h>
+
+1764760633 source:c:\users\lenovo\documents\nouveau dossier\ray first\cours de codage\hopital gestion\src\ultimate_database_manager.cpp
+	"Ultimate_Database_Manager.h"
+	<string>
+	<cstdlib>
+	<iostream>
+	<ostream>
+	<exception>
+	<fstream>
+	"Consultation.h"
+	"User.h"
+
+1764634136 source:c:\users\lenovo\documents\nouveau dossier\ray first\cours de codage\hopital gestion\src\user.cpp
+	"User.h"
+	<iostream>
+	<sqlite3.h>
+	"Medecin.h"
+	"Administrateur.h"
+	"infirmier.h"
+	"pharmacien.h"
+	<windows.h>
+	"Ultimate_Database_Manager.h"
+
+1764766904 source:c:\users\lenovo\documents\nouveau dossier\ray first\cours de codage\hopital gestion\src\administrateur.cpp
+	"Administrateur.h"
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<random>
+	<windows.h>
+	"Ultimate_Database_Manager.h"
+
+1764634136 c:\users\lenovo\documents\nouveau dossier\ray first\cours de codage\hopital gestion\include\administrateur.h
+	"User.h"
+	<string>
+
+1764769854 source:c:\users\lenovo\documents\nouveau dossier\ray first\cours de codage\hopital gestion\src\pharmacien.cpp
+	"Pharmacien.h"
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<string>
+	<windows.h>
+	<User.h>
+	"Patient.h"
+	<limits>
+
+1764634449 c:\users\lenovo\documents\nouveau dossier\ray first\cours de codage\hopital gestion\include\pharmacien.h
+	"Ultimate_Database_Manager.h"
+	<professionnel_de_sante.h>
+

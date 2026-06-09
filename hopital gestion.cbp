@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="hopital gestion" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Option virtualFolders="src/" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/hopital gestion" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+					<Add directory="include" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/hopital gestion" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+					<Add directory="include" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+		</Compiler>
+		<Unit filename="include/Administrateur.h" />
+		<Unit filename="include/Consultation.h" />
+		<Unit filename="include/Dossier_medical.h" />
+		<Unit filename="include/Medecin.h" />
+		<Unit filename="include/Patient.h" />
+		<Unit filename="include/Pharmacien.h" />
+		<Unit filename="include/Ultimate_Database_Manager.h" />
+		<Unit filename="include/User.h" />
+		<Unit filename="include/infirmier.h" />
+		<Unit filename="include/professionnel_de_sante.h" />
+		<Unit filename="include/sqlite3.h" />
+		<Unit filename="main.cpp">
+			<Option virtualFolder="src/" />
+		</Unit>
+		<Unit filename="src/Administrateur.cpp" />
+		<Unit filename="src/Consultation.cpp" />
+		<Unit filename="src/Dossier_medical.cpp" />
+		<Unit filename="src/Medecin.cpp" />
+		<Unit filename="src/Patient.cpp" />
+		<Unit filename="src/Pharmacien.cpp" />
+		<Unit filename="src/Ultimate_Database_Manager.cpp" />
+		<Unit filename="src/User.cpp" />
+		<Unit filename="src/infirmier.cpp" />
+		<Unit filename="src/professionnel_de_sante.cpp" />
+		<Unit filename="src/sqlite3.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Extensions>
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>
