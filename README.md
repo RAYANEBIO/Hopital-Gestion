@@ -1,7 +1,3 @@
-﻿# Hopital-Gestion
-# Hopital-Gestion
-
-
 # 🏥 Hopital-Gestion
 
 ## 📌 Description
